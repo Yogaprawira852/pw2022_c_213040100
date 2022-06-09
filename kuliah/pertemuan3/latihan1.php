@@ -21,5 +21,6 @@
     $i++;
  } while ( $i < 5 );
 
+ // http://localhost/pw2022_c_213040100/kuliah/pertemuan3/latihan1b.php
+
 ?>
-// http://localhost/pw2022_c_213040100/kuliah/pertemuan3/latihan1b.php
