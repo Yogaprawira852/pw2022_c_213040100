@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 04, 2021 at 12:48 PM
+-- Generation Time: Jun 09, 2022 at 12:48 AM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.4.11
 
@@ -41,7 +41,7 @@ CREATE TABLE `t_artikel` (
 INSERT INTO `t_artikel` (`id`, `judul`, `isi`, `gambar`) 
 --
 -- Indexes for dumped tables
---
+-- 
 
 --
 -- Indexes for table `t_artikel`
